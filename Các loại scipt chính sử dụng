@@ -1,0 +1,12 @@
+----------------------------------SCRIPT-----------------------------------
+Script là gì?
+Scrip chạy trên server ( server side), là hệ thống logic chính của game, dùng để điều khiển hay tùy chỉnh các nhân vật, vật thể trong game như( npc, hiệu ứng,...)
+---------------------------------------------------------------------------------------------------------
+Thường đặt trong ServerserviceScript, Work space hoặc ServerStroge...
+2. Local script 
+Dùng chạy trên local-side
+Dùng cho gui, camera người chơi kể cả animation.
+Thường được đặt trong Started Player script, Starter GUI, StarterPack
+----------------------------------------------------------------------
+2.Module Script
+
